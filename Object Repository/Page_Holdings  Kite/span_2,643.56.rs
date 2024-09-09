@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2,643.56</name>
+   <tag></tag>
+   <elementGuidId>1b2a0ffd-d433-48d0-b576-5726be03b2d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/section/div[2]/div/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span[title=&quot;Current value&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;₹2,643.56&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acdd9bf9-1660-41be-b3f7-ecee14d361d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Current value</value>
+      <webElementGuid>c959aa1e-11f4-438c-bed3-eb92928be890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹2,643.56</value>
+      <webElementGuid>e5b25839-bb07-4928-8bfe-ca22c6804c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container wrapper&quot;]/div[@class=&quot;container-right&quot;]/div[@class=&quot;page-content holdings&quot;]/div[@class=&quot;holdings&quot;]/section[@class=&quot;holdings-table table-wrapper&quot;]/div[2]/div[@class=&quot;holdings-treemap&quot;]/div[@class=&quot;holdings-treemap&quot;]/div[@class=&quot;chart&quot;]/div[@class=&quot;row row-bottom&quot;]/div[@class=&quot;six columns text-pagetitle holding-value&quot;]/span[1]</value>
+      <webElementGuid>0d7cd8a1-ebaf-4d05-82a2-35616240f3c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/section/div[2]/div/div/div/div[2]/div/span</value>
+      <webElementGuid>f6f84c9c-145b-4c8a-8bd0-ecdfd27bb13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[7]/following::span[3]</value>
+      <webElementGuid>30537eed-2e28-4d70-93d0-d564fa06a33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BSE'])[7]/following::span[5]</value>
+      <webElementGuid>d20fc376-f307-41ce-b65d-d7a808be0ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current value'])[2]/preceding::span[1]</value>
+      <webElementGuid>f5a34bac-a760-48d3-87e7-8949ae85f585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment value'])[1]/preceding::span[1]</value>
+      <webElementGuid>c789bf8e-f915-4112-84d5-e1a38735496e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='₹2,643.56']/parent::*</value>
+      <webElementGuid>4d832c85-e9cc-4fe9-a034-0d56e3dcc070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/span</value>
+      <webElementGuid>30260023-104c-41a5-a0ca-85d55f3d68b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Current value' and (text() = '₹2,643.56' or . = '₹2,643.56')]</value>
+      <webElementGuid>5374b8d9-992b-4cbd-9aa2-eed7094e868b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
